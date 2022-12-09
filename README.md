@@ -1,6 +1,7 @@
 # Automation-Projects
 
 Project: CompareMovies
+
 This is a simple Selenium project to compare the movie details on Wikipedia page and IMDB.
 The project compares if the Release Date and the Origin of country is matching on both the websites or not.
 
